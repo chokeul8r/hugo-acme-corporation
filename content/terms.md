@@ -1,7 +1,7 @@
 ---
 title: 'Terms'
 date: 2023-07-25T18:44:33-05:00
-draft: true
+draft: false
 ---
 
 Terms

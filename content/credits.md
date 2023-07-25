@@ -1,7 +1,7 @@
 ---
 title: 'Credits'
 date: 2023-07-25T18:45:25-05:00
-draft: true
+draft: false
 ---
 
 This website uses resources from a variety of places. Here is to all of them:

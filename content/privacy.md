@@ -1,7 +1,7 @@
 ---
 title: 'Privacy'
 date: 2023-07-25T18:46:21-05:00
-draft: true
+draft: false
 ---
 
 Privacy Policy
